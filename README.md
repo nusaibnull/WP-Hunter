@@ -22,6 +22,7 @@ A modular and flexible WordPress plugin vulnerability scanner that checks for ou
 ---
 
 ## 📂 Project Structure
+. ├── main.py ├── sites_list.txt ├── modules/ │ ├── plugin_enum.py │ ├── exploit_checker.py │ ├── shell_exploit.py │ ├── alive_checker.py │ ├── brute_force.py │ └── report_writer.py └── data/ └── plugins.py
 
 ---
 
@@ -31,7 +32,7 @@ A modular and flexible WordPress plugin vulnerability scanner that checks for ou
    ```bash
    git clone [https://github.com/nusaibnull/wp-exploit-scanner.git](https://github.com/nusaibnull/WP-Hunter.git
    cd wp-exploit-scanner
-pip3 install -r requirements.txt
+   pip3 install -r requirements.txt
 
 🔸 Scan a single target directly
 python main.py --target https://example.com
