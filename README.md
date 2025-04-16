@@ -47,7 +47,8 @@ A modular and flexible WordPress plugin vulnerability scanner that checks for ou
    python main.py --target https://example.com
 
 🧨 Enable exploit attempt
-   python main.py --exploit
+   ```bash
+python main.py --exploit
 
 🔑 Enable brute force login
    python main.py --brute
