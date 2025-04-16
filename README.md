@@ -22,7 +22,16 @@ A modular and flexible WordPress plugin vulnerability scanner that checks for ou
 ---
 
 ## 📂 Project Structure
-. ├── main.py ├── sites_list.txt ├── modules/ │ ├── plugin_enum.py │ ├── exploit_checker.py │ ├── shell_exploit.py │ ├── alive_checker.py │ ├── brute_force.py │ └── report_writer.py └── data/ └── plugins.py
+. ├── main.py ├── sites_list.txt 
+      ├── modules/ │ 
+      ├── plugin_enum.py │ 
+      ├── exploit_checker.py │ 
+      ├── shell_exploit.py │ 
+      ├── alive_checker.py │ 
+      ├── brute_force.py │ 
+      └── report_writer.py 
+   └── data/ 
+      └── plugins.py
 
 ---
 
@@ -35,16 +44,16 @@ A modular and flexible WordPress plugin vulnerability scanner that checks for ou
    pip3 install -r requirements.txt
 
 🔸 Scan a single target directly
-python main.py --target https://example.com
+   python main.py --target https://example.com
 
 🧨 Enable exploit attempt
-python main.py --exploit
+   python main.py --exploit
 
 🔑 Enable brute force login
-python main.py --brute
+   python main.py --brute
 
 🔥 Do everything (exploit + brute force)
-python main.py --all
+   python main.py --all
 
 🧠 Plugin Scan Modes
 When prompted:
