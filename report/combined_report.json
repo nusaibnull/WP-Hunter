@@ -1,0 +1,5782 @@
+[
+    {
+        "target": "https://bel-india.in",
+        "timestamp": "2025-04-16T22:23:17.027292",
+        "results": []
+    },
+    {
+        "target": "https://cea.nic.in",
+        "timestamp": "2025-04-16T22:26:50.521310",
+        "results": []
+    },
+    {
+        "target": "https://bel-india.in",
+        "timestamp": "2025-04-16T22:50:57.766690",
+        "results": []
+    },
+    {
+        "target": "https://cea.nic.in",
+        "timestamp": "2025-04-16T22:54:26.729615",
+        "results": []
+    },
+    {
+        "target": "https://dbrau.ac.in",
+        "timestamp": "2025-04-16T22:56:11.059447",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://dtf.in",
+        "timestamp": "2025-04-16T22:57:46.388536",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://mithibai.ac.in",
+        "timestamp": "2025-04-16T22:59:17.523108",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.ksoumysuru.ac.in",
+        "timestamp": "2025-04-16T22:59:38.213289",
+        "results": []
+    },
+    {
+        "target": "https://www.learncbse.in",
+        "timestamp": "2025-04-16T23:00:00.759705",
+        "results": []
+    },
+    {
+        "target": "https://cdn.reraconsultants.in",
+        "timestamp": "2025-04-16T23:00:33.419808",
+        "results": []
+    },
+    {
+        "target": "https://library.iitj.ac.in",
+        "timestamp": "2025-04-16T23:00:59.877491",
+        "results": []
+    },
+    {
+        "target": "https://support.microsoft.com",
+        "timestamp": "2025-04-16T23:01:27.411498",
+        "results": []
+    },
+    {
+        "target": "https://thefairplay.ind.in",
+        "timestamp": "2025-04-16T23:01:56.426153",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://bel-india.in",
+        "timestamp": "2025-04-17T03:41:40.321742",
+        "results": []
+    },
+    {
+        "target": "https://cea.nic.in",
+        "timestamp": "2025-04-17T03:45:23.163242",
+        "results": []
+    },
+    {
+        "target": "https://dbrau.ac.in",
+        "timestamp": "2025-04-17T03:47:10.183837",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://dtf.in",
+        "timestamp": "2025-04-17T03:48:32.767665",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.ksoumysuru.ac.in",
+        "timestamp": "2025-04-17T03:48:54.909172",
+        "results": []
+    },
+    {
+        "target": "https://www.learncbse.in",
+        "timestamp": "2025-04-17T03:49:07.635131",
+        "results": []
+    },
+    {
+        "target": "https://cdn.reraconsultants.in",
+        "timestamp": "2025-04-17T03:49:40.393176",
+        "results": []
+    },
+    {
+        "target": "https://library.iitj.ac.in",
+        "timestamp": "2025-04-17T03:50:01.669450",
+        "results": []
+    },
+    {
+        "target": "https://support.microsoft.com",
+        "timestamp": "2025-04-17T03:50:24.702812",
+        "results": []
+    },
+    {
+        "target": "https://thefairplay.ind.in",
+        "timestamp": "2025-04-17T03:51:35.666488",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://webisoda.in",
+        "timestamp": "2025-04-17T03:52:04.396157",
+        "results": []
+    },
+    {
+        "target": "https://www.learncbse.in",
+        "timestamp": "2025-04-17T03:52:16.506374",
+        "results": []
+    },
+    {
+        "target": "https://www.reraconsultants.in",
+        "timestamp": "2025-04-17T03:52:48.325247",
+        "results": []
+    },
+    {
+        "target": "https://www.scobserver.in",
+        "timestamp": "2025-04-17T03:53:03.103699",
+        "results": []
+    },
+    {
+        "target": "https://labangerry.in",
+        "timestamp": "2025-04-17T03:53:42.629805",
+        "results": []
+    },
+    {
+        "target": "https://sdgcc.in",
+        "timestamp": "2025-04-17T03:54:07.810420",
+        "results": []
+    },
+    {
+        "target": "https://www.learncbse.in",
+        "timestamp": "2025-04-17T03:54:19.813683",
+        "results": []
+    },
+    {
+        "target": "https://www.reraconsultants.in",
+        "timestamp": "2025-04-17T03:54:52.437795",
+        "results": []
+    },
+    {
+        "target": "https://www.scobserver.in",
+        "timestamp": "2025-04-17T03:55:07.328136",
+        "results": []
+    },
+    {
+        "target": "https://www.prist.ac.in",
+        "timestamp": "2025-04-17T03:57:21.463300",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.mbit.edu.in",
+        "timestamp": "2025-04-17T03:57:37.684870",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.cbit.ac.in",
+        "timestamp": "2025-04-17T03:57:53.625996",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://wbuhs.ac.in",
+        "timestamp": "2025-04-17T03:58:09.852273",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://theisb.in",
+        "timestamp": "2025-04-17T03:59:11.419989",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://proteam.co.in",
+        "timestamp": "2025-04-17T04:03:00.111084",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://olympiads.hbcse.tifr.res.in",
+        "timestamp": "2025-04-17T04:10:38.290493",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "http://sliet.ac.in",
+        "timestamp": "2025-04-17T04:10:50.956933",
+        "results": []
+    },
+    {
+        "target": "https://www.bennett.edu.in",
+        "timestamp": "2025-04-17T04:11:57.278056",
+        "results": []
+    },
+    {
+        "target": "https://ucmas.in",
+        "timestamp": "2025-04-17T04:13:27.035080",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://onlineapply.homecredit.co.in",
+        "timestamp": "2025-04-17T04:13:55.627071",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://nnf.ietlucknow.ac.in",
+        "timestamp": "2025-04-17T04:14:19.261083",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://keralataxes.gov.in",
+        "timestamp": "2025-04-17T04:15:11.574150",
+        "results": []
+    },
+    {
+        "target": "https://bcph.co.in",
+        "timestamp": "2025-04-17T04:15:49.531652",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "http://www.cfi.co.in",
+        "timestamp": "2025-04-17T04:16:39.755247",
+        "results": []
+    },
+    {
+        "target": "https://www.bennett.edu.in",
+        "timestamp": "2025-04-17T04:17:40.777158",
+        "results": []
+    },
+    {
+        "target": "https://ucmas.in",
+        "timestamp": "2025-04-17T04:19:11.235981",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://onlineapply.homecredit.co.in",
+        "timestamp": "2025-04-17T04:19:35.670984",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://nnf.ietlucknow.ac.in",
+        "timestamp": "2025-04-17T04:20:00.178688",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://keralataxes.gov.in",
+        "timestamp": "2025-04-17T04:20:55.336825",
+        "results": []
+    },
+    {
+        "target": "https://bcph.co.in",
+        "timestamp": "2025-04-17T04:21:29.243741",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.sarkariresults.org.in",
+        "timestamp": "2025-04-17T04:21:40.060672",
+        "results": []
+    },
+    {
+        "target": "https://wbuhs.ac.in",
+        "timestamp": "2025-04-17T04:21:59.142193",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://ucmas.in",
+        "timestamp": "2025-04-17T04:23:35.294841",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://satyarthi.org.in",
+        "timestamp": "2025-04-17T04:25:21.625562",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://mlcu.ac.in",
+        "timestamp": "2025-04-17T04:27:48.738978",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://minervahotels.in",
+        "timestamp": "2025-04-17T04:28:18.200885",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "updraftplus",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/51245",
+                    "vulnerabilities": [
+                        {
+                            "type": "Arbitrary File Download",
+                            "description": "Unauthorized users can download backup files",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://healkit.in",
+        "timestamp": "2025-04-17T04:29:45.116602",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://devafeeds.in",
+        "timestamp": "2025-04-17T04:34:03.727339",
+        "results": []
+    },
+    {
+        "target": "https://www.cfi.co.in",
+        "timestamp": "2025-04-17T04:34:09.908679",
+        "results": []
+    },
+    {
+        "target": "https://www.bennett.edu.in",
+        "timestamp": "2025-04-17T04:35:14.523664",
+        "results": []
+    },
+    {
+        "target": "https://theisb.in",
+        "timestamp": "2025-04-17T04:36:19.119594",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://symresearch.siu.edu.in",
+        "timestamp": "2025-04-17T04:37:14.617194",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://nnf.ietlucknow.ac.in",
+        "timestamp": "2025-04-17T04:37:40.183118",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://mgmu.ac.in",
+        "timestamp": "2025-04-17T04:37:48.337181",
+        "results": []
+    },
+    {
+        "target": "http://mddaonline.in",
+        "timestamp": "2025-04-17T04:38:21.818889",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.smarthealth.in",
+        "timestamp": "2025-04-17T04:39:45.722453",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://swayampurnagoa.goa.gov.in",
+        "timestamp": "2025-04-17T04:41:46.146227",
+        "results": []
+    },
+    {
+        "target": "https://peoplelogic.in",
+        "timestamp": "2025-04-17T04:42:10.097951",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://newhorizoncollegeofengineering.in",
+        "timestamp": "2025-04-17T04:43:18.892858",
+        "results": []
+    },
+    {
+        "target": "https://keralataxes.gov.in",
+        "timestamp": "2025-04-17T04:44:18.212487",
+        "results": []
+    },
+    {
+        "target": "https://gmcpatiala.edu.in",
+        "timestamp": "2025-04-17T04:45:03.394837",
+        "results": []
+    },
+    {
+        "target": "http://bio.iiserkol.ac.in",
+        "timestamp": "2025-04-17T04:45:14.951459",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.jainschoolsirsa.in",
+        "timestamp": "2025-04-17T04:46:13.364559",
+        "results": []
+    },
+    {
+        "target": "https://umayalwomenscollege.co.in",
+        "timestamp": "2025-04-17T04:47:40.396051",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://saffronsynergies.in",
+        "timestamp": "2025-04-17T04:48:23.372161",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://kkmu.edu.in",
+        "timestamp": "2025-04-17T04:49:58.432756",
+        "results": []
+    },
+    {
+        "target": "https://inclusion.in",
+        "timestamp": "2025-04-17T04:51:37.308172",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://frontier.in",
+        "timestamp": "2025-04-17T04:53:18.479318",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "http://abhedanandamahavidyalaya.ac.in",
+        "timestamp": "2025-04-17T04:53:43.176270",
+        "results": []
+    },
+    {
+        "target": "https://www.silworld.in",
+        "timestamp": "2025-04-17T04:55:38.051755",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.revathi.in",
+        "timestamp": "2025-04-17T04:58:28.750815",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://tbboard.gov.in",
+        "timestamp": "2025-04-17T04:58:47.386285",
+        "results": []
+    },
+    {
+        "target": "https://stagingtwo.webguruz.in",
+        "timestamp": "2025-04-17T04:58:55.310398",
+        "results": []
+    },
+    {
+        "target": "https://nimhans.co.in",
+        "timestamp": "2025-04-17T04:59:43.688392",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://kmce.in",
+        "timestamp": "2025-04-17T05:00:00.233808",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://gpcanuppur.in",
+        "timestamp": "2025-04-17T05:00:26.146616",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://coezet.iitm.ac.in",
+        "timestamp": "2025-04-17T05:00:45.043989",
+        "results": []
+    },
+    {
+        "target": "https://cau.ac.in",
+        "timestamp": "2025-04-17T05:01:10.108122",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.iiipicai.in",
+        "timestamp": "2025-04-17T05:01:38.481501",
+        "results": []
+    },
+    {
+        "target": "https://sreyas.ac.in",
+        "timestamp": "2025-04-17T05:03:08.022165",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://simat.ac.in",
+        "timestamp": "2025-04-17T05:03:51.869101",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://msta.in",
+        "timestamp": "2025-04-17T05:04:25.620160",
+        "results": []
+    },
+    {
+        "target": "https://mlcu.ac.in",
+        "timestamp": "2025-04-17T05:06:50.842059",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://kuk.ac.in",
+        "timestamp": "2025-04-17T05:08:05.819127",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://elitestudy.co.in",
+        "timestamp": "2025-04-17T05:08:51.143967",
+        "results": []
+    },
+    {
+        "target": "http://www.vxpress.in",
+        "timestamp": "2025-04-17T05:09:14.302234",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "http://www.rexnordindia.in",
+        "timestamp": "2025-04-17T05:10:13.885581",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "http://expertmaritime.in",
+        "timestamp": "2025-04-17T05:11:11.305191",
+        "results": [
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://ycems.edu.in",
+        "timestamp": "2025-04-17T05:11:29.970238",
+        "results": [
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.gjimt.ac.in",
+        "timestamp": "2025-04-17T05:12:08.268986",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.aubit.edu.in",
+        "timestamp": "2025-04-17T05:12:36.013068",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://littleangelseducationaltrust.in",
+        "timestamp": "2025-04-17T05:14:22.492108",
+        "results": []
+    },
+    {
+        "target": "https://iamhotelschool.ac.in",
+        "timestamp": "2025-04-17T05:15:15.215233",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://diamonddrugs.co.in",
+        "timestamp": "2025-04-17T05:19:57.700607",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://csjmu.ac.in",
+        "timestamp": "2025-04-17T05:20:32.565633",
+        "results": []
+    },
+    {
+        "target": "http://sliet.ac.in",
+        "timestamp": "2025-04-17T05:21:06.716204",
+        "results": []
+    },
+    {
+        "target": "https://library.iitj.ac.in",
+        "timestamp": "2025-04-17T05:21:15.966644",
+        "results": []
+    },
+    {
+        "target": "https://csjmu.ac.in",
+        "timestamp": "2025-04-17T05:21:36.262463",
+        "results": []
+    },
+    {
+        "target": "https://www.reraconsultants.in",
+        "timestamp": "2025-04-17T05:21:36.355173",
+        "results": []
+    },
+    {
+        "target": "http://www.cfi.co.in",
+        "timestamp": "2025-04-17T05:21:42.270478",
+        "results": []
+    },
+    {
+        "target": "https://symresearch.siu.edu.in",
+        "timestamp": "2025-04-17T05:21:49.051299",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://consulted.co.in",
+        "timestamp": "2025-04-17T05:21:51.823010",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://keralataxes.gov.in",
+        "timestamp": "2025-04-17T05:21:59.734159",
+        "results": []
+    },
+    {
+        "target": "https://coezet.iitm.ac.in",
+        "timestamp": "2025-04-17T05:22:14.868702",
+        "results": []
+    },
+    {
+        "target": "https://www.gjimt.ac.in",
+        "timestamp": "2025-04-17T05:22:19.943619",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://bcph.co.in",
+        "timestamp": "2025-04-17T05:22:35.313802",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://bcph.co.in",
+        "timestamp": "2025-04-17T05:22:40.250779",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://iamhotelschool.ac.in",
+        "timestamp": "2025-04-17T05:22:40.591200",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://sreyas.ac.in",
+        "timestamp": "2025-04-17T05:22:49.935602",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.aubit.edu.in",
+        "timestamp": "2025-04-17T05:23:12.831964",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://gpcanuppur.in",
+        "timestamp": "2025-04-17T05:23:25.446265",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.smarthealth.in",
+        "timestamp": "2025-04-17T05:23:31.236429",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://simat.ac.in",
+        "timestamp": "2025-04-17T05:23:32.461560",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://swayampurnagoa.goa.gov.in",
+        "timestamp": "2025-04-17T05:23:48.365091",
+        "results": []
+    },
+    {
+        "target": "https://www.prist.ac.in",
+        "timestamp": "2025-04-17T05:23:51.044360",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://kmce.in",
+        "timestamp": "2025-04-17T05:23:54.631570",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://alchimica.co.in",
+        "timestamp": "2025-04-17T05:23:55.706688",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "http://bio.iiserkol.ac.in",
+        "timestamp": "2025-04-17T05:24:05.537649",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://saffronsynergies.in",
+        "timestamp": "2025-04-17T05:24:09.286565",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://alchimica.co.in",
+        "timestamp": "2025-04-17T05:24:17.687655",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://newhorizoncollegeofengineering.in",
+        "timestamp": "2025-04-17T05:24:37.006736",
+        "results": []
+    },
+    {
+        "target": "https://www.jainschoolsirsa.in",
+        "timestamp": "2025-04-17T05:24:37.236978",
+        "results": []
+    },
+    {
+        "target": "https://nnf.ietlucknow.ac.in",
+        "timestamp": "2025-04-17T05:25:12.115098",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://theisb.in",
+        "timestamp": "2025-04-17T05:25:41.690198",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://thefairplay.ind.in",
+        "timestamp": "2025-04-17T05:25:47.267798",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "http://mddaonline.in",
+        "timestamp": "2025-04-17T05:25:52.884773",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://stagingtwo.webguruz.in",
+        "timestamp": "2025-04-17T05:25:53.320325",
+        "results": []
+    },
+    {
+        "target": "http://www.rexnordindia.in",
+        "timestamp": "2025-04-17T05:25:55.484202",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://ucmas.in",
+        "timestamp": "2025-04-17T05:25:58.448133",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://mgmu.ac.in",
+        "timestamp": "2025-04-17T05:26:07.141691",
+        "results": []
+    },
+    {
+        "target": "https://mithibai.ac.in",
+        "timestamp": "2025-04-17T05:26:08.087319",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://cdn.reraconsultants.in",
+        "timestamp": "2025-04-17T05:26:30.655833",
+        "results": []
+    },
+    {
+        "target": "https://healkit.in",
+        "timestamp": "2025-04-17T05:26:31.716502",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://minervahotels.in",
+        "timestamp": "2025-04-17T05:26:35.530125",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "updraftplus",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/51245",
+                    "vulnerabilities": [
+                        {
+                            "type": "Arbitrary File Download",
+                            "description": "Unauthorized users can download backup files",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://bel-india.in",
+        "timestamp": "2025-04-17T05:27:02.368615",
+        "results": []
+    },
+    {
+        "target": "https://proteam.co.in",
+        "timestamp": "2025-04-17T05:27:06.164173",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.iiipicai.in",
+        "timestamp": "2025-04-17T05:27:08.267397",
+        "results": []
+    },
+    {
+        "target": "https://www.bennett.edu.in",
+        "timestamp": "2025-04-17T05:27:12.254912",
+        "results": []
+    },
+    {
+        "target": "https://mlcu.ac.in",
+        "timestamp": "2025-04-17T05:27:17.603035",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.sarkariresults.org.in",
+        "timestamp": "2025-04-17T05:27:24.854950",
+        "results": []
+    },
+    {
+        "target": "https://cau.ac.in",
+        "timestamp": "2025-04-17T05:27:39.340804",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://peoplelogic.in",
+        "timestamp": "2025-04-17T05:27:40.104747",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://labangerry.in",
+        "timestamp": "2025-04-17T05:27:47.820823",
+        "results": []
+    },
+    {
+        "target": "https://frontier.in",
+        "timestamp": "2025-04-17T05:27:56.893514",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://inclusion.in",
+        "timestamp": "2025-04-17T05:28:03.423060",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.cbit.ac.in",
+        "timestamp": "2025-04-17T05:28:18.183800",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://sdgcc.in",
+        "timestamp": "2025-04-17T05:28:21.138071",
+        "results": []
+    },
+    {
+        "target": "https://devafeeds.in",
+        "timestamp": "2025-04-17T05:28:25.401918",
+        "results": []
+    },
+    {
+        "target": "https://gmcpatiala.edu.in",
+        "timestamp": "2025-04-17T05:28:31.889674",
+        "results": []
+    },
+    {
+        "target": "http://www.vxpress.in",
+        "timestamp": "2025-04-17T05:28:46.248263",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://littleangelseducationaltrust.in",
+        "timestamp": "2025-04-17T05:28:55.231427",
+        "results": []
+    },
+    {
+        "target": "https://onlineapply.homecredit.co.in",
+        "timestamp": "2025-04-17T05:28:57.813892",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://kkmu.edu.in",
+        "timestamp": "2025-04-17T05:28:58.509110",
+        "results": []
+    },
+    {
+        "target": "https://www.learncbse.in",
+        "timestamp": "2025-04-17T05:29:01.482659",
+        "results": []
+    },
+    {
+        "target": "https://www.scobserver.in",
+        "timestamp": "2025-04-17T05:29:17.610379",
+        "results": []
+    },
+    {
+        "target": "https://wbuhs.ac.in",
+        "timestamp": "2025-04-17T05:29:24.841284",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://ycems.edu.in",
+        "timestamp": "2025-04-17T05:29:38.727779",
+        "results": [
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://webisoda.in",
+        "timestamp": "2025-04-17T05:29:42.026542",
+        "results": []
+    },
+    {
+        "target": "https://umayalwomenscollege.co.in",
+        "timestamp": "2025-04-17T05:29:46.747680",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://satyarthi.org.in",
+        "timestamp": "2025-04-17T05:29:47.211561",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "http://abhedanandamahavidyalaya.ac.in",
+        "timestamp": "2025-04-17T05:29:49.520958",
+        "results": []
+    },
+    {
+        "target": "https://support.microsoft.com",
+        "timestamp": "2025-04-17T05:29:51.797296",
+        "results": []
+    },
+    {
+        "target": "https://kuk.ac.in",
+        "timestamp": "2025-04-17T05:29:59.917137",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.mbit.edu.in",
+        "timestamp": "2025-04-17T05:30:06.989397",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://dbrau.ac.in",
+        "timestamp": "2025-04-17T05:30:57.226892",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://consulted.co.in",
+        "timestamp": "2025-04-17T05:31:21.410409",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "http://www.cfi.co.in",
+        "timestamp": "2025-04-17T05:31:23.211624",
+        "results": []
+    },
+    {
+        "target": "https://stagingtwo.webguruz.in",
+        "timestamp": "2025-04-17T05:31:25.156572",
+        "results": []
+    },
+    {
+        "target": "https://library.iitj.ac.in",
+        "timestamp": "2025-04-17T05:31:36.288409",
+        "results": []
+    },
+    {
+        "target": "https://webisoda.in",
+        "timestamp": "2025-04-17T05:31:36.864087",
+        "results": []
+    },
+    {
+        "target": "https://cau.ac.in",
+        "timestamp": "2025-04-17T05:31:43.158873",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.silworld.in",
+        "timestamp": "2025-04-17T05:32:00.479236",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.revathi.in",
+        "timestamp": "2025-04-17T05:32:00.585588",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://cea.nic.in",
+        "timestamp": "2025-04-17T05:33:20.663719",
+        "results": []
+    },
+    {
+        "target": "https://stagingtwo.webguruz.in",
+        "timestamp": "2025-04-17T05:50:37.309467",
+        "results": []
+    },
+    {
+        "target": "https://mgmu.ac.in",
+        "timestamp": "2025-04-17T05:50:38.389388",
+        "results": []
+    },
+    {
+        "target": "https://www.cbit.ac.in",
+        "timestamp": "2025-04-17T05:50:42.928158",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://sdgcc.in",
+        "timestamp": "2025-04-17T05:50:50.944747",
+        "results": []
+    },
+    {
+        "target": "https://library.iitj.ac.in",
+        "timestamp": "2025-04-17T05:50:53.349180",
+        "results": []
+    },
+    {
+        "target": "https://bel-india.in",
+        "timestamp": "2025-04-17T05:51:13.144597",
+        "results": []
+    },
+    {
+        "target": "https://healkit.in",
+        "timestamp": "2025-04-17T05:51:36.358205",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "http://bio.iiserkol.ac.in",
+        "timestamp": "2025-04-17T05:51:42.778070",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://simat.ac.in",
+        "timestamp": "2025-04-17T05:52:14.618827",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.scobserver.in",
+        "timestamp": "2025-04-17T05:52:51.337353",
+        "results": []
+    },
+    {
+        "target": "https://swayampurnagoa.goa.gov.in",
+        "timestamp": "2025-04-17T05:52:57.516529",
+        "results": []
+    },
+    {
+        "target": "https://gmcpatiala.edu.in",
+        "timestamp": "2025-04-17T05:53:02.091467",
+        "results": []
+    },
+    {
+        "target": "https://iamhotelschool.ac.in",
+        "timestamp": "2025-04-17T05:53:03.747922",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.sarkariresults.org.in",
+        "timestamp": "2025-04-17T05:53:31.121251",
+        "results": []
+    },
+    {
+        "target": "https://ycems.edu.in",
+        "timestamp": "2025-04-17T05:53:32.625996",
+        "results": [
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.jainschoolsirsa.in",
+        "timestamp": "2025-04-17T05:53:37.600188",
+        "results": []
+    },
+    {
+        "target": "https://support.microsoft.com",
+        "timestamp": "2025-04-17T05:53:38.374380",
+        "results": []
+    },
+    {
+        "target": "https://webisoda.in",
+        "timestamp": "2025-04-17T05:53:56.820850",
+        "results": []
+    },
+    {
+        "target": "https://tbboard.gov.in",
+        "timestamp": "2025-04-17T05:54:09.077741",
+        "results": []
+    },
+    {
+        "target": "http://www.rexnordindia.in",
+        "timestamp": "2025-04-17T05:54:30.239514",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.bennett.edu.in",
+        "timestamp": "2025-04-17T05:54:53.996355",
+        "results": []
+    },
+    {
+        "target": "https://labangerry.in",
+        "timestamp": "2025-04-17T05:55:44.020757",
+        "results": []
+    },
+    {
+        "target": "https://newhorizoncollegeofengineering.in",
+        "timestamp": "2025-04-17T05:56:01.678027",
+        "results": []
+    },
+    {
+        "target": "https://mlcu.ac.in",
+        "timestamp": "2025-04-17T05:56:15.136363",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://kuk.ac.in",
+        "timestamp": "2025-04-17T05:56:28.361441",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://satyarthi.org.in",
+        "timestamp": "2025-04-17T05:56:34.370313",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://cea.nic.in",
+        "timestamp": "2025-04-17T05:56:35.264683",
+        "results": []
+    },
+    {
+        "target": "https://ucmas.in",
+        "timestamp": "2025-04-17T05:56:44.051680",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.prist.ac.in",
+        "timestamp": "2025-04-17T05:56:53.809210",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://littleangelseducationaltrust.in",
+        "timestamp": "2025-04-17T05:57:23.468935",
+        "results": []
+    },
+    {
+        "target": "http://www.vxpress.in",
+        "timestamp": "2025-04-17T06:00:39.356352",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://bcph.co.in",
+        "timestamp": "2025-04-17T06:00:51.402268",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://gmcpatiala.edu.in",
+        "timestamp": "2025-04-17T06:01:12.167834",
+        "results": []
+    },
+    {
+        "target": "https://www.reraconsultants.in",
+        "timestamp": "2025-04-17T06:01:14.568776",
+        "results": []
+    },
+    {
+        "target": "http://www.cfi.co.in",
+        "timestamp": "2025-04-17T06:01:17.450613",
+        "results": []
+    },
+    {
+        "target": "http://bio.iiserkol.ac.in",
+        "timestamp": "2025-04-17T06:01:32.259605",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "http://sliet.ac.in",
+        "timestamp": "2025-04-17T06:02:00.880204",
+        "results": []
+    },
+    {
+        "target": "https://www.smarthealth.in",
+        "timestamp": "2025-04-17T06:02:05.599479",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://consulted.co.in",
+        "timestamp": "2025-04-17T06:02:11.220126",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://littleangelseducationaltrust.in",
+        "timestamp": "2025-04-17T06:02:20.261400",
+        "results": []
+    },
+    {
+        "target": "https://www.iiipicai.in",
+        "timestamp": "2025-04-17T06:02:22.660668",
+        "results": []
+    },
+    {
+        "target": "https://mgmu.ac.in",
+        "timestamp": "2025-04-17T06:02:33.805344",
+        "results": []
+    },
+    {
+        "target": "https://csjmu.ac.in",
+        "timestamp": "2025-04-17T06:02:38.449592",
+        "results": []
+    },
+    {
+        "target": "https://www.jainschoolsirsa.in",
+        "timestamp": "2025-04-17T06:02:41.219124",
+        "results": []
+    },
+    {
+        "target": "https://mlcu.ac.in",
+        "timestamp": "2025-04-17T06:02:48.925763",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://satyarthi.org.in",
+        "timestamp": "2025-04-17T06:03:11.803537",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://dbrau.ac.in",
+        "timestamp": "2025-04-17T06:03:25.519189",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://symresearch.siu.edu.in",
+        "timestamp": "2025-04-17T06:03:46.444932",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://proteam.co.in",
+        "timestamp": "2025-04-17T06:03:49.358083",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://support.microsoft.com",
+        "timestamp": "2025-04-17T06:03:49.689714",
+        "results": []
+    },
+    {
+        "target": "https://www.bennett.edu.in",
+        "timestamp": "2025-04-17T06:04:02.206310",
+        "results": []
+    },
+    {
+        "target": "https://stagingtwo.webguruz.in",
+        "timestamp": "2025-04-17T06:04:06.214216",
+        "results": []
+    },
+    {
+        "target": "https://bemlindia.in",
+        "timestamp": "2025-04-17T06:04:11.383510",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "http://abhedanandamahavidyalaya.ac.in",
+        "timestamp": "2025-04-17T06:04:20.520548",
+        "results": []
+    },
+    {
+        "target": "https://www.cbit.ac.in",
+        "timestamp": "2025-04-17T06:04:24.594432",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://sdgcc.in",
+        "timestamp": "2025-04-17T06:04:32.887276",
+        "results": []
+    },
+    {
+        "target": "https://ycems.edu.in",
+        "timestamp": "2025-04-17T06:04:47.304665",
+        "results": [
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://keralataxes.gov.in",
+        "timestamp": "2025-04-17T06:04:50.627029",
+        "results": []
+    },
+    {
+        "target": "https://kmce.in",
+        "timestamp": "2025-04-17T06:04:55.421248",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://kkmu.edu.in",
+        "timestamp": "2025-04-17T06:05:10.302289",
+        "results": []
+    },
+    {
+        "target": "https://sreyas.ac.in",
+        "timestamp": "2025-04-17T06:05:20.990340",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://umayalwomenscollege.co.in",
+        "timestamp": "2025-04-17T06:05:23.551596",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "http://www.rexnordindia.in",
+        "timestamp": "2025-04-17T06:05:28.091057",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://wbuhs.ac.in",
+        "timestamp": "2025-04-17T06:05:35.572223",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://labangerry.in",
+        "timestamp": "2025-04-17T06:05:37.481677",
+        "results": []
+    },
+    {
+        "target": "https://coezet.iitm.ac.in",
+        "timestamp": "2025-04-17T06:06:05.486360",
+        "results": []
+    },
+    {
+        "target": "https://kuk.ac.in",
+        "timestamp": "2025-04-17T06:06:14.393347",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://minervahotels.in",
+        "timestamp": "2025-04-17T06:06:19.101930",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "updraftplus",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/51245",
+                    "vulnerabilities": [
+                        {
+                            "type": "Arbitrary File Download",
+                            "description": "Unauthorized users can download backup files",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://iamhotelschool.ac.in",
+        "timestamp": "2025-04-17T06:06:21.527701",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.mbit.edu.in",
+        "timestamp": "2025-04-17T06:06:47.828369",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://nnf.ietlucknow.ac.in",
+        "timestamp": "2025-04-17T06:07:17.569386",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.silworld.in",
+        "timestamp": "2025-04-17T06:07:18.017680",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.scobserver.in",
+        "timestamp": "2025-04-17T06:07:19.082760",
+        "results": []
+    },
+    {
+        "target": "https://ucmas.in",
+        "timestamp": "2025-04-17T06:07:23.242974",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://thefairplay.ind.in",
+        "timestamp": "2025-04-17T06:07:26.388588",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://cdn.reraconsultants.in",
+        "timestamp": "2025-04-17T06:07:28.098664",
+        "results": []
+    },
+    {
+        "target": "https://nkpsims.in",
+        "timestamp": "2025-04-17T06:07:47.312427",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://library.iitj.ac.in",
+        "timestamp": "2025-04-17T06:07:53.876853",
+        "results": []
+    },
+    {
+        "target": "https://frontier.in",
+        "timestamp": "2025-04-17T06:08:03.083191",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "http://mddaonline.in",
+        "timestamp": "2025-04-17T06:08:20.581325",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://cau.ac.in",
+        "timestamp": "2025-04-17T06:08:29.469663",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.gjimt.ac.in",
+        "timestamp": "2025-04-17T06:08:36.746587",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.aubit.edu.in",
+        "timestamp": "2025-04-17T06:08:40.661200",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.learncbse.in",
+        "timestamp": "2025-04-17T06:08:46.396568",
+        "results": []
+    },
+    {
+        "target": "https://inclusion.in",
+        "timestamp": "2025-04-17T06:08:48.895561",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.sarkariresults.org.in",
+        "timestamp": "2025-04-17T06:09:02.172050",
+        "results": []
+    },
+    {
+        "target": "https://gpcanuppur.in",
+        "timestamp": "2025-04-17T06:09:12.142599",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://simat.ac.in",
+        "timestamp": "2025-04-17T06:09:21.883567",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://bel-india.in",
+        "timestamp": "2025-04-17T06:09:29.251845",
+        "results": []
+    },
+    {
+        "target": "https://peoplelogic.in",
+        "timestamp": "2025-04-17T06:09:41.017739",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://webisoda.in",
+        "timestamp": "2025-04-17T06:09:58.332378",
+        "results": []
+    },
+    {
+        "target": "https://saffronsynergies.in",
+        "timestamp": "2025-04-17T06:09:58.679012",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://alchimica.co.in",
+        "timestamp": "2025-04-17T06:09:59.169182",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://onlineapply.homecredit.co.in",
+        "timestamp": "2025-04-17T06:10:13.693856",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://healkit.in",
+        "timestamp": "2025-04-17T06:10:35.132126",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.prist.ac.in",
+        "timestamp": "2025-04-17T06:10:38.587454",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://theisb.in",
+        "timestamp": "2025-04-17T06:10:45.674321",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://olympiads.hbcse.tifr.res.in",
+        "timestamp": "2025-04-17T06:11:01.857726",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://cea.nic.in",
+        "timestamp": "2025-04-17T06:11:09.855072",
+        "results": []
+    },
+    {
+        "target": "https://www.cbit.ac.in",
+        "timestamp": "2025-04-17T07:34:21.176274",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.mbit.edu.in",
+        "timestamp": "2025-04-17T07:34:24.361448",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://library.iitj.ac.in",
+        "timestamp": "2025-04-17T07:34:46.088246",
+        "results": []
+    },
+    {
+        "target": "https://bel-india.in",
+        "timestamp": "2025-04-17T07:34:53.853360",
+        "results": []
+    },
+    {
+        "target": "https://minervahotels.in",
+        "timestamp": "2025-04-17T07:35:13.730255",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "updraftplus",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/51245",
+                    "vulnerabilities": [
+                        {
+                            "type": "Arbitrary File Download",
+                            "description": "Unauthorized users can download backup files",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://onlineapply.homecredit.co.in",
+        "timestamp": "2025-04-17T07:35:20.918013",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.aubit.edu.in",
+        "timestamp": "2025-04-17T07:35:53.679966",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://wbuhs.ac.in",
+        "timestamp": "2025-04-17T07:36:00.032535",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.learncbse.in",
+        "timestamp": "2025-04-17T07:36:16.017936",
+        "results": []
+    },
+    {
+        "target": "https://gmcpatiala.edu.in",
+        "timestamp": "2025-04-17T07:37:06.215673",
+        "results": []
+    },
+    {
+        "target": "https://csjmu.ac.in",
+        "timestamp": "2025-04-17T07:37:16.397884",
+        "results": []
+    },
+    {
+        "target": "https://symresearch.siu.edu.in",
+        "timestamp": "2025-04-17T07:37:20.510203",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://webisoda.in",
+        "timestamp": "2025-04-17T07:37:24.915260",
+        "results": []
+    },
+    {
+        "target": "https://sdgcc.in",
+        "timestamp": "2025-04-17T07:37:56.049272",
+        "results": []
+    },
+    {
+        "target": "https://coezet.iitm.ac.in",
+        "timestamp": "2025-04-17T07:38:00.308034",
+        "results": []
+    },
+    {
+        "target": "https://bcph.co.in",
+        "timestamp": "2025-04-17T07:38:05.239806",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://sreyas.ac.in",
+        "timestamp": "2025-04-17T07:38:16.911509",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://saffronsynergies.in",
+        "timestamp": "2025-04-17T07:38:24.382485",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.jainschoolsirsa.in",
+        "timestamp": "2025-04-17T07:39:19.514228",
+        "results": []
+    },
+    {
+        "target": "https://www.gjimt.ac.in",
+        "timestamp": "2025-04-17T07:39:37.114964",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.bennett.edu.in",
+        "timestamp": "2025-04-17T07:39:46.972583",
+        "results": []
+    },
+    {
+        "target": "https://mlcu.ac.in",
+        "timestamp": "2025-04-17T07:40:54.211284",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://healkit.in",
+        "timestamp": "2025-04-17T07:40:55.100412",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://mgmu.ac.in",
+        "timestamp": "2025-04-17T07:41:17.498700",
+        "results": []
+    },
+    {
+        "target": "https://proteam.co.in",
+        "timestamp": "2025-04-17T07:41:37.995290",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "http://abhedanandamahavidyalaya.ac.in",
+        "timestamp": "2025-04-17T07:41:55.705535",
+        "results": []
+    },
+    {
+        "target": "http://bio.iiserkol.ac.in",
+        "timestamp": "2025-04-17T07:42:15.913327",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://cau.ac.in",
+        "timestamp": "2025-04-17T07:42:37.367514",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.prist.ac.in",
+        "timestamp": "2025-04-17T07:42:48.826689",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://stagingtwo.webguruz.in",
+        "timestamp": "2025-04-17T07:43:08.938088",
+        "results": []
+    },
+    {
+        "target": "https://ucmas.in",
+        "timestamp": "2025-04-17T07:43:28.622772",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://ycems.edu.in",
+        "timestamp": "2025-04-17T07:43:36.147146",
+        "results": [
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.scobserver.in",
+        "timestamp": "2025-04-17T07:44:01.476350",
+        "results": []
+    },
+    {
+        "target": "https://alchimica.co.in",
+        "timestamp": "2025-04-17T07:45:20.686021",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.silworld.in",
+        "timestamp": "2025-04-17T07:45:33.353098",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.iiipicai.in",
+        "timestamp": "2025-04-17T07:46:25.484387",
+        "results": []
+    },
+    {
+        "target": "https://littleangelseducationaltrust.in",
+        "timestamp": "2025-04-17T07:46:34.188489",
+        "results": []
+    },
+    {
+        "target": "https://newhorizoncollegeofengineering.in",
+        "timestamp": "2025-04-17T07:46:43.154991",
+        "results": []
+    },
+    {
+        "target": "https://www.sarkariresults.org.in",
+        "timestamp": "2025-04-17T07:47:11.148863",
+        "results": []
+    },
+    {
+        "target": "https://keralataxes.gov.in",
+        "timestamp": "2025-04-17T07:47:31.557024",
+        "results": []
+    },
+    {
+        "target": "https://cdn.reraconsultants.in",
+        "timestamp": "2025-04-17T07:48:31.348134",
+        "results": []
+    },
+    {
+        "target": "https://support.microsoft.com",
+        "timestamp": "2025-04-17T07:48:31.802110",
+        "results": []
+    },
+    {
+        "target": "https://base.ac.in",
+        "timestamp": "2025-04-17T07:49:11.121841",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "http://www.rexnordindia.in",
+        "timestamp": "2025-04-17T07:49:31.042439",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://kuk.ac.in",
+        "timestamp": "2025-04-17T07:49:50.645104",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://kmce.in",
+        "timestamp": "2025-04-17T07:50:02.886517",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://nkpsims.in",
+        "timestamp": "2025-04-17T07:50:20.462760",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://peoplelogic.in",
+        "timestamp": "2025-04-17T07:50:57.239767",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "http://www.vxpress.in",
+        "timestamp": "2025-04-17T07:51:35.326944",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://theisb.in",
+        "timestamp": "2025-04-17T07:52:05.470645",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://thefairplay.ind.in",
+        "timestamp": "2025-04-17T07:52:08.682912",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "woocommerce",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/67890",
+                    "vulnerabilities": [
+                        {
+                            "type": "SQLi",
+                            "description": "SQL Injection vulnerability in WooCommerce product filtering",
+                            "severity": "critical"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://cea.nic.in",
+        "timestamp": "2025-04-17T07:52:46.604327",
+        "results": []
+    },
+    {
+        "target": "https://www.sjbit.edu.in",
+        "timestamp": "2025-04-17T07:53:19.404013",
+        "results": []
+    },
+    {
+        "target": "https://satyarthi.org.in",
+        "timestamp": "2025-04-17T07:53:23.004845",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.smarthealth.in",
+        "timestamp": "2025-04-17T07:54:13.099275",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://nnf.ietlucknow.ac.in",
+        "timestamp": "2025-04-17T07:54:32.804582",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://gpcanuppur.in",
+        "timestamp": "2025-04-17T07:54:58.093615",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://consulted.co.in",
+        "timestamp": "2025-04-17T07:55:01.768359",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            },
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.reraconsultants.in",
+        "timestamp": "2025-04-17T07:55:48.223794",
+        "results": []
+    },
+    {
+        "target": "https://simat.ac.in",
+        "timestamp": "2025-04-17T07:56:07.443898",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://frontier.in",
+        "timestamp": "2025-04-17T07:56:09.983493",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://labangerry.in",
+        "timestamp": "2025-04-17T07:57:02.251946",
+        "results": []
+    },
+    {
+        "target": "https://iamhotelschool.ac.in",
+        "timestamp": "2025-04-17T07:57:07.162321",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://www.revathi.in",
+        "timestamp": "2025-04-17T07:57:32.813261",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://dbrau.ac.in",
+        "timestamp": "2025-04-17T07:57:34.103631",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "http://mddaonline.in",
+        "timestamp": "2025-04-17T07:57:41.599657",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://inclusion.in",
+        "timestamp": "2025-04-17T07:59:41.916666",
+        "results": [
+            {
+                "plugin": "contact-form-7",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/48953",
+                    "vulnerabilities": [
+                        {
+                            "type": "CSRF",
+                            "description": "Cross-Site Request Forgery in form submissions",
+                            "severity": "low"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "target": "https://olympiads.hbcse.tifr.res.in",
+        "timestamp": "2025-04-17T07:59:43.904554",
+        "results": [
+            {
+                "plugin": "elementor",
+                "exploit": {
+                    "exploit": "https://www.exploit-db.com/exploits/12345",
+                    "vulnerabilities": [
+                        {
+                            "type": "RCE",
+                            "description": "Remote Code Execution vulnerability in Elementor plugin",
+                            "severity": "high"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+]
