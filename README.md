@@ -34,7 +34,11 @@ A modular and flexible **WordPress vulnerability scanner** that detects vulnerab
    git clone https://github.com/nusaibnull/WP-Hunter.git
    cd WP-Hunter
    pip install -r requirements.txt
+## Run Cloud Shell
 
+<p align="left">
+  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/nusaibnull/WP-Hunter.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
+</p>
 # 🔥 Help
 python main.py --help
 
